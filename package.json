@@ -1,0 +1,19 @@
+{
+  "name": "foodology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calendario": "^1.1.4",
+    "colombian-holidays": "^1.7.4",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1"
+  }
+}
